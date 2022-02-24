@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from Ireland being a relation of the hostile and bloody proceedings of the rebellious papists there at this present vvherein is declared the many, great and cruell outrages committed by them both with fire and sword against the Protestants in severall parts of that kingdome : also the names of the townes and castles, they have suprized,  taken the burnt : with a full discoverie of thier trayterous and wicked intentions : related in a letter and dated at Dublin, October 27, 1641, and read in Parliament here, Novemb. 5, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49638</idno>
+            <idno type="STC">Wing L492</idno>
+            <idno type="STC">ESTC R1510</idno>
+            <idno type="EEBO-CITATION">12773791</idno>
+            <idno type="OCLC">ocm 12773791</idno>
+            <idno type="VID">93712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 256:E175, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from Ireland being a relation of the hostile and bloody proceedings of the rebellious papists there at this present vvherein is declared the many, great and cruell outrages committed by them both with fire and sword against the Protestants in severall parts of that kingdome : also the names of the townes and castles, they have suprized,  taken the burnt : with a full discoverie of thier trayterous and wicked intentions : related in a letter and dated at Dublin, October 27, 1641, and read in Parliament here, Novemb. 5, 1641.</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93712:1" rendition="simple:additions"/>
+            <p>THE LAST NEVVES FROM IRELAND BEING A RELATION Of the Hoſtile and bloody proceedings of the Rebel<g ref="char:EOLhyphen"/>lious Papiſts there, at this preſent. VVherein is declared the many, great, and cruell outrages committed by them, both with fire and Sword againſt the <hi>Proteſtants,</hi> in ſeverall parts of that Kingdome. Alſo the names of the Townes and Ca<g ref="char:EOLhyphen"/>ſtles, they have ſurprized, taken, and burnt. With a full Diſcoverie of their Trayterous and wicked intentions. Related in a Letter, and dated at <hi>Dublin, October,</hi> 27. 1641. And read in Parliament here, <hi>Novemb.</hi> 5, 1641.</p>
+            <p>LONDON, Printed for JOHN THOMAS. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:93712:2"/>
+            <pb facs="tcp:93712:2"/>
+            <head>THE Bloody Proceedings of the <hi>Iriſh</hi> Rebels, related in a Letter, dated at <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> the 27. of <hi>Octob.</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here was on Friday laſt a cruell plot of Treaſon diſcovered, as great as the Gun-powder Treaſon, my Lord <hi>Matquers,</hi> and divers others taken and impriſoned in the Caſtle of <hi>Dublin,</hi> my Lord <hi>Len<g ref="char:EOLhyphen"/>ricole</hi> came to this Town on Munday night, and is ſuſpected, he is privately layd for, They plotted to ſurpriſe the Caſtle of <hi>Dublin</hi> on Sunday laſt in the evening at Prayer time; and to have killed the War<g ref="char:EOLhyphen"/>ders and poſſeſſed themſelves of the Kings ſtore, and then to have maſtered the <hi>Engliſh,</hi> but God prevented their bloody intentions, the Rebels have done much hurt in the North parts of <hi>Ireland,</hi> they have burned <hi>Armagh, Longnall,</hi> the <hi>Neuery,</hi> and ſeeke to make a<g ref="char:EOLhyphen"/>way my Lord <hi>Marre,</hi> but he eſcaped them to <hi>Tre<g ref="char:EOLhyphen"/>dath,</hi> they have burned <hi>Dundalke,</hi> they Maſſacre the <hi>Engliſh</hi> in thoſe parts, men, women, and children, my
+<pb facs="tcp:93712:3"/>Lord <hi>Blaney</hi> fled to this Towne, but they have taken his Caſtles and all that belong to him, with his Lady and children, this City is all up in Armes, and all from 16. to 60. are warned to be in readineſſe, there was two Merchants in <hi>Chriſts Church-yard</hi> killed by the Rebels, laſt Munday Mr. <hi>Champion</hi> and Mr. <hi>Hayward.</hi> I heare to day that the Lord <hi>Burlaſſes</hi> Troope will bring twelve of the Rebels that they have taken, The <hi>Neuery</hi> is taken and <hi>Dundalke</hi> is beaten downe, they have lately killed one Mr. <hi>Iremonger,</hi> Attorney of the Kings Bench, <hi>Belterbat</hi> is taken for certaine, all being inhabited with <hi>Engliſh,</hi> they yeelded upon compoſi<g ref="char:EOLhyphen"/>tion, the Rebels are 5000 ſtrong, whereof 2000 are armed with the Armes they tooke forth of the <hi>Ne<g ref="char:EOLhyphen"/>very.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:93712:3"/>
+            <head>A True and perfect Relation how this bloody and damnable Conſpiracy was firſt diſcovered.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Execution of their bloody Tragedy inten<g ref="char:EOLhyphen"/>ded againſt the Proteſtants, both in <hi>Dublin,</hi> and other parts of the Kingdome, ſhould have bin on Saturday, but by Gods great mercy &amp; good<g ref="char:EOLhyphen"/>neſſe, their Helliſh and damnable intention was brought to light, being diſcovered on Friday night, by Sir <hi>John Clotworthies</hi> man, on Sunday after there was a great confuſion in the City, where was joy mixt with ſorrow, for our happy deliverance, yet were we much perplexed &amp; trou<g ref="char:EOLhyphen"/>bled with the feares and terrors of our approaching Enemies, expecting every moment, when the City ſhould be ſurpriſed and taken, ſuch is the greatneſſe of our feares, that wee take no reſt neither day nor night, theſe diſloyall and wicked Re<g ref="char:EOLhyphen"/>bels, have taken two Caſtles in the North parts of this King<g ref="char:EOLhyphen"/>dome, beſides two other Towns of great ſtrength with much munition in it, and it is thought they ſtill increaſe in great Multitudes, here is a Lord taken, and divers others of note, to the number of forty, all which are now in Priſon, the Lords name is <hi>Maguere,</hi> theſe Papiſts or <hi>Rebels</hi> call it a Religious Warre, Ruine and Deſolation they threaten to the poore Pro<g ref="char:EOLhyphen"/>teſtants, for they are ten to one, throughout this Kingdome, ſo that unleſſe the King and Parliament helpe and relieve us, we ſhall utterly be deſtroyed and roted out of the Land, GOD in his mercy looke upon us in theſe great ſtraights and extremities, and deliver us out of the hands of theſe viperous and blood-thirſty people, who is ſa<g ref="char:EOLhyphen"/>tisfied with nothing but blood, they increaſe daily, commit<g ref="char:EOLhyphen"/>ting moſt bloody and wicked outrages, their firſt intention
+<pb facs="tcp:93712:4"/>was to murder the two chiefe Iuſtices, &amp; all the Privy Coun<g ref="char:EOLhyphen"/>ſell that were Proteſtants, likewiſe to ſeaze upon all the Kings Ports, Caſtles, and Magazins whatſoever, and to murder all perſons that ſhould oppoſe them in their intentions and de<g ref="char:EOLhyphen"/>ſignes.</p>
+            <list>
+               <head>Theſe are their pretences for the taking up of Armes.</head>
+               <item n="1">1. <hi>To have their Crowne not to be dependant upon England, nor to be a conquered nation.</hi>
+               </item>
+               <item n="2">2. <hi>To have their Iriſh Lawes eſtabliſhed, and ſuch as ſhould be made hereafter.</hi>
+               </item>
+               <item n="3">3 <hi>To have free liberty of the exerciſe of Religion.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>The Lord Matquers is one of the chiefeſt amongſt theſe Trayterous Rebels, and their intention was this.</hi>
+            </p>
+            <list>
+               <item n="1">1. <hi>To murther the Engliſh and Proteſtants in the Kingdome of Ireland.</hi>
+               </item>
+               <item n="2">2. <hi>To murder the</hi> 2. <hi>Lords chiefe Juſtices, &amp; Pri<g ref="char:EOLhyphen"/>vy Councell at Dublin.</hi>
+               </item>
+               <item n="3">3. <hi>To ſeaze upon all the Kings, Caſtles, Forts, and Magazins throughout all the Kingdome of Ireland.</hi>
+               </item>
+               <item n="4">4. <hi>The City and Caſtle of Dublin, Firſt if they could get the Caſtle, they then would make the City yeeld preſently, by ſhooting from the Caſtle the tops of the chin<g ref="char:EOLhyphen"/>neys to affright them, but if that prevailed not, they would batter downe their houſes about their eares, the Lord chiefe Juſtices and privy Councellors, ſate in Con<g ref="char:EOLhyphen"/>ſultation all night, for the ſafe-guard and ſecurity of the City, and Caſtle of Dublin, and the next morning they apprehended many of theſe Traytors, together with the Lord Matquers, who the day before, had forſaken his Lodgings, and hid himſelfe in a Garret, there were found at his Lodgings great ſtore of ſkaines, Hammers
+<pb facs="tcp:93712:4"/>and Hatchets without halves, the ſame day newes was brought to</hi> Dublin, <hi>that ſeverall places and Forts was ſeized upon in</hi> conno, <hi>and</hi> monno, <hi>and in divers other places, many Villages plundered, whereupon</hi> 500 <hi>horſe and</hi> 500 <hi>foote were raiſed to guard the city. and</hi> 100 <hi>put into the Caſtle under the command of Sir</hi> Fran<g ref="char:EOLhyphen"/>cis Willoughby, <hi>for the defence and ſafety of the Caſtle.</hi>
+               </item>
+            </list>
+            <p>This Conſpiracy was firſt revealed to Sir <hi>John Bur<g ref="char:EOLhyphen"/>lacy,</hi> and other Juſtices of the Peace, by one who was ſervant to Sir <hi>John Clotworthy</hi> an Iriſh Knight, and a Parliament man.</p>
+            <p>It is reported that ſome of theſe Rebels confeſſed they were to have an Army of 7000 men from ſeve<g ref="char:EOLhyphen"/>rall parts of Ireland, which ſhould be all Papiſts and Jeſuites, and to ſurpriſe all the fortes and Caſtles a<g ref="char:EOLhyphen"/>bout <hi>Dublin,</hi> and to cut the throates of the chiefeſt Noble-men, Gentry, and others of this Kingdome that then were preſent.</p>
+            <p>The City of <hi>Dublin</hi> and the Townes and Caſtles adjoyning is in very great danger, they are gathered to a ſtrong head, ſtill approaching neerer unto it, ta<g ref="char:EOLhyphen"/>king Townes and Caſtles in ſeverall Provinces where they fall, plundering all places they come into, the Murders and out-rages daily committed by them, is great and intolerable, the Tyrannicall power they ex<g ref="char:EOLhyphen"/>erciſe upon the poore <hi>Proteſtants,</hi> not to be parral<g ref="char:EOLhyphen"/>lel'd, amongſt Pagans or Infidels, ſo farre doe theſe bloody Miſcreants degenerate from the name of Chri<g ref="char:EOLhyphen"/>ſtians; Thus much have I thought good to informe you of the miſerable eſtate and condition of this Kingdome at this preſent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
